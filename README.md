@@ -1,2 +1,2 @@
 # data_structures_and_algorithms
-implementing basic data structures and algorithms in various languages for my personal entertainment
+Basic data structures and algorithms implemented in various languages for my personal entertainment
